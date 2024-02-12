@@ -4,6 +4,5 @@ Welcome to my Python Projects repository!
 
 This repository contains a collection of basic Python programs that cover various concepts and functionalities. Whether you're a beginner learning Python or someone looking for simple projects to explore, you'll find a range of programs here to experiment with.
 
-Feel free to browse the code, make modifications, or use these programs as learning resources. If you have any questions or suggestions, don't hesitate to reach out.
-
-Happy coding! 🐍
+1. Number Guessing (User) [Click_Here](https://github.com/Ishikakataria06/Basic-Python-Projects/blob/main/Number%20Guessing%20(User).ipynb\)
+   
